@@ -1,3 +1,5 @@
+// C PROJECT(RUMMY GAME)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -15,7 +17,7 @@
 #define POS 4
 
 int top = -1;
-
+int rev = 0;
 int r1 = 0;
 int r2 = 0;
 int pr1 = 0;
